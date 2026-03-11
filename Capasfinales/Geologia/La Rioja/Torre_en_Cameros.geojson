@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Torre_en_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 74.0, "DLO": "Calizas, margas, calizas nodulosas y radiolaritas. Rocas volcánicas", "colorcorregido": "#D9FFFF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285865.140511814039201, 2215634.364168397150934 ], [ 3285811.002300000749528, 2215607.00755807897076 ], [ 3285811.002300000749528, 2215764.841200000606477 ], [ 3286123.398050413001329, 2215764.841200000606477 ], [ 3285865.140511814039201, 2215634.364168397150934 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285865.140511814039201, 2215634.364168397150934 ], [ 3286123.398050413001329, 2215764.841200000606477 ], [ 3292194.597699998877943, 2215764.841200000606477 ], [ 3292194.597699998877943, 2209790.239400000311434 ], [ 3285811.002300000749528, 2209790.239400000311434 ], [ 3285811.002300000749528, 2215607.00755807897076 ], [ 3285865.140511814039201, 2215634.364168397150934 ] ] ] } }
+]
+}

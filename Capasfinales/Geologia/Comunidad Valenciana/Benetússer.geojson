@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Benetússer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 101.0, "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "colorcorregido": "#D9D9B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423022.130145816598088, 1875467.654479999560863 ], [ 3422911.250079999212176, 1875467.654479999560863 ], [ 3422911.250079999212176, 1876910.400719999801368 ], [ 3423110.997070948127657, 1876910.400719999801368 ], [ 3423022.130145816598088, 1875467.654479999560863 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 102.0, "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "colorcorregido": "#80B3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423110.997070948127657, 1876910.400719999801368 ], [ 3424169.778520000632852, 1876910.400719999801368 ], [ 3424169.778520000632852, 1875467.654479999560863 ], [ 3423022.130145816598088, 1875467.654479999560863 ], [ 3423110.997070948127657, 1876910.400719999801368 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcudia_de_Monteagud",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 26.0, "DLO": "Anfibolitas, serpentinitas, micaesquistos y mármoles (M. del Mulhacén)", "colorcorregido": "#D9D9D9" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3226706.929599999450147, 1665891.451800000853837 ], [ 3233585.48270000051707, 1665891.451800000853837 ], [ 3233585.48270000051707, 1656549.360599999316037 ], [ 3226706.929599999450147, 1656549.360599999316037 ], [ 3226706.929599999450147, 1665891.451800000853837 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Yanguas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3295861.122745000757277, 2201084.877254999242723 ], [ 3308833.741755000315607, 2201084.877254999242723 ], [ 3308833.741755000315607, 2190519.398345000110567 ], [ 3295861.122745000757277, 2190519.398345000110567 ], [ 3295861.122745000757277, 2201084.877254999242723 ] ] ] } }
+]
+}

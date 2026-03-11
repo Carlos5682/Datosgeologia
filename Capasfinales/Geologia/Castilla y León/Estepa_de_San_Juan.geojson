@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Estepa_de_San_Juan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3297308.724035, 2178929.190265000332147 ], [ 3303512.447665000800043, 2178929.190265000332147 ], [ 3303512.447665000800043, 2173331.593034998979419 ], [ 3297308.724035, 2173331.593034998979419 ], [ 3297308.724035, 2178929.190265000332147 ] ] ] } }
+]
+}
