@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Garganta,_La",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 7.0, "DLO": "Granitoides de dos micas", "colorcorregido": "#FF4DFF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2976159.180416388902813, 2049106.532125 ], [ 2976065.471325000748038, 2049106.532125 ], [ 2976065.471325000748038, 2049240.567435432458296 ], [ 2976159.180416388902813, 2049106.532125 ] ] ] } },
-{ "type": "Feature", "properties": { "ID_UNIDADC": 8.0, "DLO": "Granitoides biotíticos", "colorcorregido": "#FF80FF" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2976065.471325000748038, 2049240.567435432458296 ], [ 2976065.471325000748038, 2058618.081575000658631 ], [ 2984822.708675000816584, 2058618.081575000658631 ], [ 2984822.708675000816584, 2049106.532125 ], [ 2976159.180416388902813, 2049106.532125 ], [ 2976065.471325000748038, 2049240.567435432458296 ] ] ] } }
-]
-}

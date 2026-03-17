@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Aldehuelas,_Las",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3291792.046144999098033, 2189324.319455000106245 ], [ 3302673.380855000112206, 2189324.319455000106245 ], [ 3302673.380855000112206, 2178394.442445000167936 ], [ 3291792.046144999098033, 2178394.442445000167936 ], [ 3291792.046144999098033, 2189324.319455000106245 ] ] ] } }
-]
-}

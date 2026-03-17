@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Ubide",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 77.0, "DLO": "Margas y margocalizas. Margas arcillosas turbidíticas. Calizas arenosas, areniscas, arenas y margas.", "colorcorregido": "#D9FF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3287551.937665, 2302192.543235000688583 ], [ 3290761.623235000763088, 2302192.543235000688583 ], [ 3290761.623235000763088, 2299700.113965000491589 ], [ 3287551.937665, 2299700.113965000491589 ], [ 3287551.937665, 2302192.543235000688583 ] ] ] } }
-]
-}

@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Hontanas",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3163650.288599999621511, 2244641.379499999806285 ], [ 3169882.343000000342727, 2244641.379499999806285 ], [ 3169882.343000000342727, 2239418.831299999728799 ], [ 3163650.288599999621511, 2239418.831299999728799 ], [ 3163650.288599999621511, 2244641.379499999806285 ] ] ] } }
-]
-}

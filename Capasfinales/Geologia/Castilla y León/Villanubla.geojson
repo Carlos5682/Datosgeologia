@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Villanubla",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 90.0, "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "colorcorregido": "#FFD94D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3095181.105205662082881, 2182995.989767918828875 ], [ 3095204.005815000738949, 2183011.960081328172237 ], [ 3095204.005815000738949, 2182869.523185000289232 ], [ 3095087.795814353041351, 2182869.523185000289232 ], [ 3095181.105205662082881, 2182995.989767918828875 ] ] ] } },
-{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3095181.105205662082881, 2182995.989767918828875 ], [ 3095087.795814353041351, 2182869.523185000289232 ], [ 3083377.125684999395162, 2182869.523185000289232 ], [ 3083377.125684999395162, 2193209.915714999195188 ], [ 3095204.005815000738949, 2193209.915714999195188 ], [ 3095204.005815000738949, 2183011.960081328172237 ], [ 3095181.105205662082881, 2182995.989767918828875 ] ] ] } }
-]
-}

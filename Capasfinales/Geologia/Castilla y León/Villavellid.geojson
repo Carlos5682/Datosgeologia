@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Villavellid",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3049933.50929, 2198934.917810000944883 ], [ 3059113.861509999725968, 2198934.917810000944883 ], [ 3059113.861509999725968, 2191353.811089999508113 ], [ 3049933.50929, 2191353.811089999508113 ], [ 3049933.50929, 2198934.917810000944883 ] ] ] } }
-]
-}

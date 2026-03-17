@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Valdemadera",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3317650.260115000419319, 2181603.364784999750555 ], [ 3326836.104185000993311, 2181603.364784999750555 ], [ 3326836.104185000993311, 2175412.806714999489486 ], [ 3317650.260115000419319, 2175412.806714999489486 ], [ 3317650.260115000419319, 2181603.364784999750555 ] ] ] } }
-]
-}

@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "Castilleja_de_Guzmán",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
-"features": [
-{ "type": "Feature", "properties": { "ID_UNIDADC": 98.0, "DLO": "Calcarenitas, arenas y limos amarillos", "colorcorregido": "#FFFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2901450.532894460950047, 1741039.140000000828877 ], [ 2899043.7699000001885, 1741039.140000000828877 ], [ 2899043.7699000001885, 1743053.133799999719486 ], [ 2901559.581900000106543, 1743053.133799999719486 ], [ 2901559.581900000106543, 1741429.72965334285982 ], [ 2901450.532894460950047, 1741039.140000000828877 ] ] ] } },
-{ "type": "Feature", "properties": { "ID_UNIDADC": 102.0, "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "colorcorregido": "#80B3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2901559.581900000106543, 1741429.72965334285982 ], [ 2901559.581900000106543, 1741039.140000000828877 ], [ 2901450.532894460950047, 1741039.140000000828877 ], [ 2901559.581900000106543, 1741429.72965334285982 ] ] ] } }
-]
-}
