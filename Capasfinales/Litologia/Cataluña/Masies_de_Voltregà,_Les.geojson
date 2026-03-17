@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Masies_de_Voltregà,_Les",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3671892.95047, 2139927.823130000848323 ], [ 3679958.135530001018196, 2139927.823130000848323 ], [ 3679958.135530001018196, 2129820.484070000704378 ], [ 3671892.95047, 2129820.484070000704378 ], [ 3671892.95047, 2139927.823130000848323 ] ] ] } }
+]
+}

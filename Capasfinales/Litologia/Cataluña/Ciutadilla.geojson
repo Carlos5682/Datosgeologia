@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciutadilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3578535.537074998952448, 2096758.964225000701845 ], [ 3583951.511124999262393, 2096758.964225000701845 ], [ 3583951.511124999262393, 2088427.535275000147521 ], [ 3578535.537074998952448, 2088427.535275000147521 ], [ 3578535.537074998952448, 2096758.964225000701845 ] ] ] } }
+]
+}

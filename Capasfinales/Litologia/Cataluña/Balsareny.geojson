@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Balsareny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3639046.982084999792278, 2125914.655214999802411 ], [ 3650042.811214999295771, 2125914.655214999802411 ], [ 3650042.811214999295771, 2116223.189985000528395 ], [ 3639046.982084999792278, 2116223.189985000528395 ], [ 3639046.982084999792278, 2125914.655214999802411 ] ] ] } }
+]
+}

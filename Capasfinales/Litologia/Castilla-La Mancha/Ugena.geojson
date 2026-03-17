@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ugena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3137157.429664999246597, 2008682.722334999591112 ], [ 3144034.728435000404716, 2008682.722334999591112 ], [ 3144034.728435000404716, 2001784.354365000501275 ], [ 3137157.429664999246597, 2001784.354365000501275 ], [ 3137157.429664999246597, 2008682.722334999591112 ] ] ] } }
+]
+}

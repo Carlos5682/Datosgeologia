@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Callús",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3633560.745919999666512, 2119098.162080000154674 ], [ 3639820.013880000449717, 2119098.162080000154674 ], [ 3639820.013880000449717, 2111320.923519999720156 ], [ 3633560.745919999666512, 2111320.923519999720156 ], [ 3633560.745919999666512, 2119098.162080000154674 ] ] ] } }
+]
+}

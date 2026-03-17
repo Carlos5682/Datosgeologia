@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bollullos_Par_del_Condado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2850395.28961499966681, 1748571.77568499930203 ], [ 2863751.203484999015927, 1748571.77568499930203 ], [ 2863751.203484999015927, 1736799.125114999711514 ], [ 2850395.28961499966681, 1736799.125114999711514 ], [ 2850395.28961499966681, 1748571.77568499930203 ] ] ] } }
+]
+}

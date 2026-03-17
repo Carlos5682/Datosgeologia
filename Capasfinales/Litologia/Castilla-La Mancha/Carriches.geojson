@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Carriches",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3084753.580694999080151, 1996032.852004999527708 ], [ 3090951.223005000967532, 1996032.852004999527708 ], [ 3090951.223005000967532, 1989288.001295 ], [ 3084753.580694999080151, 1989288.001295 ], [ 3084753.580694999080151, 1996032.852004999527708 ] ] ] } }
+]
+}

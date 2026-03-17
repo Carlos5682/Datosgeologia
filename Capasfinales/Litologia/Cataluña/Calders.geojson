@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Calders",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645112.165110000874847, 2114450.89329000050202 ], [ 3659482.610290000680834, 2114450.89329000050202 ], [ 3659482.610290000680834, 2105694.419610000681132 ], [ 3645112.165110000874847, 2105694.419610000681132 ], [ 3645112.165110000874847, 2114450.89329000050202 ] ] ] } }
+]
+}

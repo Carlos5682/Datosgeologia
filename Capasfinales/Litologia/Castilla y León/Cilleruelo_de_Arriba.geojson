@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cilleruelo_de_Arriba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3188156.439824999310076, 2195635.50847499910742 ], [ 3194494.961474998854101, 2195635.50847499910742 ], [ 3194494.961474998854101, 2188376.791425 ], [ 3188156.439824999310076, 2188376.791425 ], [ 3188156.439824999310076, 2195635.50847499910742 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Meliana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3428147.213399999309331, 1888293.150900000240654 ], [ 3432716.245399999897927, 1888293.150900000240654 ], [ 3432716.245399999897927, 1884739.0705 ], [ 3428147.213399999309331, 1884739.0705 ], [ 3428147.213399999309331, 1888293.150900000240654 ] ] ] } }
+]
+}

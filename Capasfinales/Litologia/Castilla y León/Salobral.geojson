@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salobral",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3068751.290434998925775, 2070954.97846500063315 ], [ 3073248.070465000811964, 2070954.97846500063315 ], [ 3073248.070465000811964, 2065711.687034999486059 ], [ 3068751.290434998925775, 2065711.687034999486059 ], [ 3068751.290434998925775, 2070954.97846500063315 ] ] ] } }
+]
+}

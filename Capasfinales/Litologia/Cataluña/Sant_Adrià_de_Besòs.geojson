@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Adrià_de_Besòs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3670398.613689512014389, 2067728.11028999905102 ], [ 3667868.346089999191463, 2067728.11028999905102 ], [ 3667868.346089999191463, 2071085.53891000081785 ], [ 3671141.300910000689328, 2071085.53891000081785 ], [ 3671141.300910000689328, 2068517.76483464660123 ], [ 3670398.613689512014389, 2067728.11028999905102 ] ] ] } }
+]
+}

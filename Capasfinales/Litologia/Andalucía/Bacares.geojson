@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bacares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3200749.10535000031814, 1672626.902850000420585 ], [ 3219546.893449999857694, 1672626.902850000420585 ], [ 3219546.893449999857694, 1659448.829449999844655 ], [ 3200749.10535000031814, 1659448.829449999844655 ], [ 3200749.10535000031814, 1672626.902850000420585 ] ] ] } }
+]
+}

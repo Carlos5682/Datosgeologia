@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bliecos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3293756.387010000180453, 2133702.966089999768883 ], [ 3301548.756789999548346, 2133702.966089999768883 ], [ 3301548.756789999548346, 2127914.02621000027284 ], [ 3293756.387010000180453, 2127914.02621000027284 ], [ 3293756.387010000180453, 2133702.966089999768883 ] ] ] } }
+]
+}

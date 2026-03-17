@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Robladillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3080120.020965000148863, 2182414.3626350001432 ], [ 3085244.260235000867397, 2182414.3626350001432 ], [ 3085244.260235000867397, 2176884.291464998852462 ], [ 3080120.020965000148863, 2176884.291464998852462 ], [ 3080120.020965000148863, 2182414.3626350001432 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Talamanca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3642017.697239999659359, 2109419.660659999586642 ], [ 3656211.180960000492632, 2109419.660659999586642 ], [ 3656211.180960000492632, 2101711.61843999940902 ], [ 3642017.697239999659359, 2101711.61843999940902 ], [ 3642017.697239999659359, 2109419.660659999586642 ] ] ] } }
+]
+}

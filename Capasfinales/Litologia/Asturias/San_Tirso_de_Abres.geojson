@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Tirso_de_Abres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2938182.983990001026541, 2417998.363710000645369 ], [ 2947312.701209999155253, 2417998.363710000645369 ], [ 2947312.701209999155253, 2409462.583790000993758 ], [ 2938182.983990001026541, 2409462.583790000993758 ], [ 2938182.983990001026541, 2417998.363710000645369 ] ] ] } }
+]
+}

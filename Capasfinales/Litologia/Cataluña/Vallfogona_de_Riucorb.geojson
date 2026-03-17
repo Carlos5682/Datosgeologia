@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallfogona_de_Riucorb",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3585984.322700000368059, 2095309.525600000284612 ], [ 3591665.213499999605119, 2095309.525600000284612 ], [ 3591665.213499999605119, 2090616.387500000186265 ], [ 3585984.322700000368059, 2090616.387500000186265 ], [ 3585984.322700000368059, 2095309.525600000284612 ] ] ] } }
+]
+}

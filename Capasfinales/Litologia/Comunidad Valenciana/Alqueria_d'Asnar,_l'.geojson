@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alqueria_d'Asnar,_l'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3411585.091285, 1805864.998814999358729 ], [ 3414690.528815000783652, 1805864.998814999358729 ], [ 3414690.528815000783652, 1804019.293085000244901 ], [ 3411585.091285, 1804019.293085000244901 ], [ 3411585.091285, 1805864.998814999358729 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castrillo_de_la_Reina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3223309.022524998988956, 2197511.833375 ], [ 3229893.1123750009574, 2197511.833375 ], [ 3229893.1123750009574, 2188984.175924999173731 ], [ 3223309.022524998988956, 2188984.175924999173731 ], [ 3223309.022524998988956, 2197511.833375 ] ] ] } }
+]
+}

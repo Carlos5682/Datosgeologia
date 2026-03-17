@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Maria_de_Besora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3674532.70627, 2149768.85933000035584 ], [ 3684586.142130000516772, 2149768.85933000035584 ], [ 3684586.142130000516772, 2142329.816870000213385 ], [ 3674532.70627, 2142329.816870000213385 ], [ 3674532.70627, 2149768.85933000035584 ] ] ] } }
+]
+}

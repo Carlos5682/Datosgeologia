@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torresandino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3156771.638805000111461, 2198447.491694999858737 ], [ 3176100.60729500092566, 2198447.491694999858737 ], [ 3176100.60729500092566, 2181999.762505000457168 ], [ 3156771.638805000111461, 2181999.762505000457168 ], [ 3156771.638805000111461, 2198447.491694999858737 ] ] ] } }
+]
+}

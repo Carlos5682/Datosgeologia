@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sallent",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3640275.817834999412298, 2127008.868765000253916 ], [ 3655151.366864999756217, 2127008.868765000253916 ], [ 3655151.366864999756217, 2108447.667534999549389 ], [ 3640275.817834999412298, 2108447.667534999549389 ], [ 3640275.817834999412298, 2127008.868765000253916 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Usansolo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3277566.25232, 2325661.371679999865592 ], [ 3284841.552979999221861, 2325661.371679999865592 ], [ 3284841.552979999221861, 2317400.717720001004636 ], [ 3277566.25232, 2317400.717720001004636 ], [ 3277566.25232, 2325661.371679999865592 ] ] ] } }
+]
+}

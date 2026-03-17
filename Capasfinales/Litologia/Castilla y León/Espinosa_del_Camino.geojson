@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espinosa_del_Camino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3228307.53349000075832, 2244510.433409999590367 ], [ 3232406.111209999304265, 2244510.433409999590367 ], [ 3232406.111209999304265, 2237328.41778999986127 ], [ 3228307.53349000075832, 2237328.41778999986127 ], [ 3228307.53349000075832, 2244510.433409999590367 ] ] ] } }
+]
+}

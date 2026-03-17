@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Almegíjar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3127773.218874998856336, 1645109.788925000699237 ], [ 3138074.329825000371784, 1645109.788925000699237 ], [ 3138074.329825000371784, 1635344.299075000686571 ], [ 3127773.218874998856336, 1635344.299075000686571 ], [ 3127773.218874998856336, 1645109.788925000699237 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Caspueñas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3221957.576035000849515, 2053614.902165000792593 ], [ 3230020.866465, 2053614.902165000792593 ], [ 3230020.866465, 2046995.419735 ], [ 3221957.576035000849515, 2046995.419735 ], [ 3221957.576035000849515, 2053614.902165000792593 ] ] ] } }
+]
+}

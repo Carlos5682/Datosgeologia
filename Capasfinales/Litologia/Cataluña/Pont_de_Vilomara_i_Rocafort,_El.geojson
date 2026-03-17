@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pont_de_Vilomara_i_Rocafort,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3642097.950445, 2107228.017655 ], [ 3650449.246254999190569, 2107228.017655 ], [ 3650449.246254999190569, 2099268.941245000809431 ], [ 3642097.950445, 2099268.941245000809431 ], [ 3642097.950445, 2107228.017655 ] ] ] } }
+]
+}

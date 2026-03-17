@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Iglesiarrubia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3172534.593380000907928, 2205788.343119998928159 ], [ 3179140.750819999258965, 2205788.343119998928159 ], [ 3179140.750819999258965, 2197371.49468000093475 ], [ 3172534.593380000907928, 2197371.49468000093475 ], [ 3172534.593380000907928, 2205788.343119998928159 ] ] ] } }
+]
+}

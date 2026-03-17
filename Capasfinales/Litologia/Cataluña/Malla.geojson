@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Malla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3672319.076255000196397, 2123836.184944999404252 ], [ 3678920.567945000715554, 2123836.184944999404252 ], [ 3678920.567945000715554, 2114660.376355000771582 ], [ 3672319.076255000196397, 2114660.376355000771582 ], [ 3672319.076255000196397, 2123836.184944999404252 ] ] ] } }
+]
+}

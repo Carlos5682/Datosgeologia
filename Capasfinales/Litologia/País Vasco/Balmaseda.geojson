@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Balmaseda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3246246.418984999880195, 2329874.158715000376105 ], [ 3254163.315114999189973, 2329874.158715000376105 ], [ 3254163.315114999189973, 2322373.175385000184178 ], [ 3246246.418984999880195, 2322373.175385000184178 ], [ 3246246.418984999880195, 2329874.158715000376105 ] ] ] } }
+]
+}

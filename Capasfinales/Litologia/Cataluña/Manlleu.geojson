@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Manlleu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3676558.269939999561757, 2136770.231860001105815 ], [ 3683730.867060000542551, 2136770.231860001105815 ], [ 3683730.867060000542551, 2129960.483140000607818 ], [ 3676558.269939999561757, 2129960.483140000607818 ], [ 3676558.269939999561757, 2136770.231860001105815 ] ] ] } }
+]
+}

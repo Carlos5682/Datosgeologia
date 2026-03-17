@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bagüés",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3418616.503200000617653, 2229219.4592 ], [ 3427838.200899999123067, 2229219.4592 ], [ 3427838.200899999123067, 2219857.1998 ], [ 3418616.503200000617653, 2219857.1998 ], [ 3418616.503200000617653, 2229219.4592 ] ] ] } }
+]
+}

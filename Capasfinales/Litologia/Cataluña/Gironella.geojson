@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gironella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645852.191619999706745, 2141450.88418 ], [ 3650160.891079999506474, 2141450.88418 ], [ 3650160.891079999506474, 2135393.592420000582933 ], [ 3645852.191619999706745, 2135393.592420000582933 ], [ 3645852.191619999706745, 2141450.88418 ] ] ] } }
+]
+}

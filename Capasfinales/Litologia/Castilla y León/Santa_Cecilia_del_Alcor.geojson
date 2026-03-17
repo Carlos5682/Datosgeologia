@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cecilia_del_Alcor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3105916.592095000203699, 2213400.228504999075085 ], [ 3111898.845804999116808, 2213400.228504999075085 ], [ 3111898.845804999116808, 2205566.929395000915974 ], [ 3105916.592095000203699, 2205566.929395000915974 ], [ 3105916.592095000203699, 2213400.228504999075085 ] ] ] } }
+]
+}

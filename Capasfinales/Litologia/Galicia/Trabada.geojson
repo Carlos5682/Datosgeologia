@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Trabada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2932473.204924998804927, 2425736.578275000676513 ], [ 2950764.980375001206994, 2425736.578275000676513 ], [ 2950764.980375001206994, 2410734.807125000283122 ], [ 2932473.204924998804927, 2410734.807125000283122 ], [ 2932473.204924998804927, 2425736.578275000676513 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Piñel_de_Arriba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3141408.132284998893738, 2181962.563415000215173 ], [ 3151411.497215000912547, 2181962.563415000215173 ], [ 3151411.497215000912547, 2173757.368784999474883 ], [ 3141408.132284998893738, 2173757.368784999474883 ], [ 3141408.132284998893738, 2181962.563415000215173 ] ] ] } }
+]
+}

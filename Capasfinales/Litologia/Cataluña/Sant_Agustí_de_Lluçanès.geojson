@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Agustí_de_Lluçanès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3666141.750924999825656, 2145629.278374998830259 ], [ 3672095.255174999125302, 2145629.278374998830259 ], [ 3672095.255174999125302, 2139252.603525000624359 ], [ 3666141.750924999825656, 2139252.603525000624359 ], [ 3666141.750924999825656, 2145629.278374998830259 ] ] ] } }
+]
+}

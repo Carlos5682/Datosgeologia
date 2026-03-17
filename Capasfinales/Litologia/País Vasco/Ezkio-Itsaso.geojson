@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ezkio-Itsaso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3320119.699405, 2305276.136394999455661 ], [ 3327893.523294999729842, 2305276.136394999455661 ], [ 3327893.523294999729842, 2296883.514105 ], [ 3320119.699405, 2296883.514105 ], [ 3320119.699405, 2305276.136394999455661 ] ] ] } }
+]
+}

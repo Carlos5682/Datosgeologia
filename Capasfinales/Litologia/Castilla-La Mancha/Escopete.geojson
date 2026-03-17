@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Escopete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3214386.247489999048412, 2022379.288710000924766 ], [ 3222148.679310000501573, 2022379.288710000924766 ], [ 3222148.679310000501573, 2015146.787190000526607 ], [ 3214386.247489999048412, 2015146.787190000526607 ], [ 3214386.247489999048412, 2022379.288710000924766 ] ] ] } }
+]
+}

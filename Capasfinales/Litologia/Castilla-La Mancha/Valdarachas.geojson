@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdarachas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3206704.49901, 2035824.316389999119565 ], [ 3212119.611590000335127, 2035824.316389999119565 ], [ 3212119.611590000335127, 2028557.50541 ], [ 3206704.49901, 2028557.50541 ], [ 3206704.49901, 2035824.316389999119565 ] ] ] } }
+]
+}

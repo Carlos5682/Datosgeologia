@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Jorba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3607264.133374999742955, 2100540.565524999517947 ], [ 3620101.380525000859052, 2100540.565524999517947 ], [ 3620101.380525000859052, 2091008.328774999361485 ], [ 3607264.133374999742955, 2091008.328774999361485 ], [ 3607264.133374999742955, 2100540.565524999517947 ] ] ] } }
+]
+}

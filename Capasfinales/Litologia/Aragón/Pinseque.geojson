@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pinseque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3395402.148359999526292, 2140755.955740000586957 ], [ 3402590.206640000920743, 2140755.955740000586957 ], [ 3402590.206640000920743, 2134570.860660000238568 ], [ 3395402.148359999526292, 2134570.860660000238568 ], [ 3395402.148359999526292, 2140755.955740000586957 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Pere_de_Torelló",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3678047.5981, 2146921.893800000660121 ], [ 3692957.5477, 2146921.893800000660121 ], [ 3692957.5477, 2135838.739100000821054 ], [ 3678047.5981, 2135838.739100000821054 ], [ 3678047.5981, 2146921.893800000660121 ] ] ] } }
+]
+}

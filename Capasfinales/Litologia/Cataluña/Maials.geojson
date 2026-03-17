@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Maials",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3519972.394870000425726, 2083973.443430000217631 ], [ 3530976.621930000837892, 2083973.443430000217631 ], [ 3530976.621930000837892, 2069339.382169999880716 ], [ 3519972.394870000425726, 2069339.382169999880716 ], [ 3519972.394870000425726, 2083973.443430000217631 ] ] ] } }
+]
+}

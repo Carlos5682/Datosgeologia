@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallarta_de_Bureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3234230.856850000564009, 2262994.620949999894947 ], [ 3245161.434950001072139, 2262994.620949999894947 ], [ 3245161.434950001072139, 2255057.165050000417978 ], [ 3234230.856850000564009, 2255057.165050000417978 ], [ 3234230.856850000564009, 2262994.620949999894947 ] ] ] } }
+]
+}

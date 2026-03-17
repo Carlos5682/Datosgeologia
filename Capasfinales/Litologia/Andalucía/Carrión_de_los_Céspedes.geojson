@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Carrión_de_los_Céspedes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2873213.507450000848621, 1744305.407150000799447 ], [ 2877273.296949999872595, 1744305.407150000799447 ], [ 2877273.296949999872595, 1740311.305449999403208 ], [ 2873213.507450000848621, 1740311.305449999403208 ], [ 2873213.507450000848621, 1744305.407150000799447 ] ] ] } }
+]
+}

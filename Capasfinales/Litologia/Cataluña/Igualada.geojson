@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Igualada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3616786.366745000239462, 2094843.838055000174791 ], [ 3623386.169955000746995, 2094843.838055000174791 ], [ 3623386.169955000746995, 2090275.040544999297708 ], [ 3616786.366745000239462, 2090275.040544999297708 ], [ 3616786.366745000239462, 2094843.838055000174791 ] ] ] } }
+]
+}

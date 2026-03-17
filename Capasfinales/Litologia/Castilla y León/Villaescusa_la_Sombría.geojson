@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villaescusa_la_Sombría",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3216503.989900000393391, 2248621.554200001060963 ], [ 3223958.145999999716878, 2248621.554200001060963 ], [ 3223958.145999999716878, 2237937.465199999511242 ], [ 3216503.989900000393391, 2237937.465199999511242 ], [ 3216503.989900000393391, 2248621.554200001060963 ] ] ] } }
+]
+}

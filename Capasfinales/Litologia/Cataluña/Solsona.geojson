@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Solsona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3613436.794879999477416, 2142307.638719999697059 ], [ 3620764.968719999771565, 2142307.638719999697059 ], [ 3620764.968719999771565, 2134990.550680000800639 ], [ 3613436.794879999477416, 2134990.550680000800639 ], [ 3613436.794879999477416, 2142307.638719999697059 ] ] ] } }
+]
+}

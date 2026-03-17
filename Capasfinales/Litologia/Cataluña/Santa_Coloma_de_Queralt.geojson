@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Coloma_de_Queralt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3593246.840944999363273, 2095937.626754999626428 ], [ 3608823.125954999122769, 2095937.626754999626428 ], [ 3608823.125954999122769, 2085533.125145000871271 ], [ 3593246.840944999363273, 2085533.125145000871271 ], [ 3593246.840944999363273, 2095937.626754999626428 ] ] ] } }
+]
+}

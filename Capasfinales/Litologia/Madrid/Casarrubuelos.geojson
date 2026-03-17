@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casarrubuelos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3141858.383954999502748, 2006823.113745000679046 ], [ 3146973.304545000661165, 2006823.113745000679046 ], [ 3146973.304545000661165, 2003444.843254999723285 ], [ 3141858.383954999502748, 2003444.843254999723285 ], [ 3141858.383954999502748, 2006823.113745000679046 ] ] ] } }
+]
+}

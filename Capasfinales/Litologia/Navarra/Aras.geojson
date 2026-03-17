@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3305223.160575000103563, 2249596.731725000310689 ], [ 3311294.034525, 2249596.731725000310689 ], [ 3311294.034525, 2242368.412575000431389 ], [ 3305223.160575000103563, 2242368.412575000431389 ], [ 3305223.160575000103563, 2249596.731725000310689 ] ] ] } }
+]
+}

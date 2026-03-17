@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Solórzano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3218948.88259, 2354373.99671 ], [ 3228144.892009999137372, 2354373.99671 ], [ 3228144.892009999137372, 2346106.892190000507981 ], [ 3218948.88259, 2346106.892190000507981 ], [ 3218948.88259, 2354373.99671 ] ] ] } }
+]
+}

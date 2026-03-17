@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villatobas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3171691.112775000277907, 1975292.991825001081452 ], [ 3193110.571825000923127, 1975292.991825001081452 ], [ 3193110.571825000923127, 1953822.247074999148026 ], [ 3171691.112775000277907, 1953822.247074999148026 ], [ 3171691.112775000277907, 1975292.991825001081452 ] ] ] } }
+]
+}

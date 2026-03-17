@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Moià",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3655534.399065000470728, 2120945.310835000593215 ], [ 3671001.631235000211746, 2120945.310835000593215 ], [ 3671001.631235000211746, 2107521.62696500075981 ], [ 3655534.399065000470728, 2107521.62696500075981 ], [ 3655534.399065000470728, 2120945.310835000593215 ] ] ] } }
+]
+}

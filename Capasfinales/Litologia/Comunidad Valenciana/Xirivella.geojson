@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Xirivella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3419266.483310000505298, 1882116.197689999127761 ], [ 3423455.305089999455959, 1882116.197689999127761 ], [ 3423455.305089999455959, 1878959.479210000252351 ], [ 3419266.483310000505298, 1878959.479210000252351 ], [ 3419266.483310000505298, 1882116.197689999127761 ] ] ] } }
+]
+}

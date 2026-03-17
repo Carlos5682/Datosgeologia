@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Conesa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3586944.598270000424236, 2092722.710829999763519 ], [ 3597495.525929999072105, 2092722.710829999763519 ], [ 3597495.525929999072105, 2083748.024570000823587 ], [ 3586944.598270000424236, 2083748.024570000823587 ], [ 3586944.598270000424236, 2092722.710829999763519 ] ] ] } }
+]
+}

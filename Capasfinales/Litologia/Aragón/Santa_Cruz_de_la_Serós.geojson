@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cruz_de_la_Serós",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3439674.353989999275655, 2225453.336710000876337 ], [ 3447868.464010000694543, 2225453.336710000876337 ], [ 3447868.464010000694543, 2217019.288489998783916 ], [ 3439674.353989999275655, 2217019.288489998783916 ], [ 3439674.353989999275655, 2225453.336710000876337 ] ] ] } }
+]
+}

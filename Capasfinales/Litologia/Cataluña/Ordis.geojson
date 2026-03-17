@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ordis",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3731122.347609999589622, 2153797.659589999355376 ], [ 3735496.272090000100434, 2153797.659589999355376 ], [ 3735496.272090000100434, 2148911.083609999157488 ], [ 3731122.347609999589622, 2148911.083609999157488 ], [ 3731122.347609999589622, 2153797.659589999355376 ] ] ] } }
+]
+}

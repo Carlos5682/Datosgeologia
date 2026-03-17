@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Boi_de_Lluçanès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3666930.97101000091061, 2143191.192489998880774 ], [ 3675186.76998999947682, 2143191.192489998880774 ], [ 3675186.76998999947682, 2135473.01861000014469 ], [ 3666930.97101000091061, 2135473.01861000014469 ], [ 3666930.97101000091061, 2143191.192489998880774 ] ] ] } }
+]
+}
