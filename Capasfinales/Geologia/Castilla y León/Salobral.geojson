@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salobral",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 101.0, "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "colorcorregido": "#D9D9B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3068751.290434998925775, 2070954.97846500063315 ], [ 3073248.070465000811964, 2070954.97846500063315 ], [ 3073248.070465000811964, 2065711.687034999486059 ], [ 3068751.290434998925775, 2065711.687034999486059 ], [ 3068751.290434998925775, 2070954.97846500063315 ] ] ] } }
+]
+}

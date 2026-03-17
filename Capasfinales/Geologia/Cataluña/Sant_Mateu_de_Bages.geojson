@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Mateu_de_Bages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3617654.28770500048995, 2126261.219295000657439 ], [ 3638377.118795, 2126261.219295000657439 ], [ 3638377.118795, 2110004.43660500086844 ], [ 3617654.28770500048995, 2110004.43660500086844 ], [ 3617654.28770500048995, 2126261.219295000657439 ] ] ] } }
+]
+}

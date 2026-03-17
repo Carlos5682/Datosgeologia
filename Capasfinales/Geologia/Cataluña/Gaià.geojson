@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gaià",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645079.988224999513477, 2132718.112474998924881 ], [ 3655242.273474999237806, 2132718.112474998924881 ], [ 3655242.273474999237806, 2123261.368425 ], [ 3645079.988224999513477, 2123261.368425 ], [ 3645079.988224999513477, 2132718.112474998924881 ] ] ] } }
+]
+}

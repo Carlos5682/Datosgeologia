@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Zarzosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3296426.13039999967441, 2207296.243300000671297 ], [ 3305571.204000000376254, 2207296.243300000671297 ], [ 3305571.204000000376254, 2199121.8309 ], [ 3296426.13039999967441, 2199121.8309 ], [ 3296426.13039999967441, 2207296.243300000671297 ] ] ] } }
+]
+}

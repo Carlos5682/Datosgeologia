@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Prats_de_Rei,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3606202.8976050009951, 2111066.602495000697672 ], [ 3623469.681294999085367, 2111066.602495000697672 ], [ 3623469.681294999085367, 2101752.95280500035733 ], [ 3606202.8976050009951, 2101752.95280500035733 ], [ 3606202.8976050009951, 2111066.602495000697672 ] ] ] } }
+]
+}

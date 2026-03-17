@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Monasterio_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 75.0, "DLO": "Conglomerados, areniscas, arenas y margas", "colorcorregido": "#4DFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3229258.787634999491274, 2202509.953765000216663 ], [ 3233733.961065000854433, 2202509.953765000216663 ], [ 3233733.961065000854433, 2198934.199635 ], [ 3229258.787634999491274, 2198934.199635 ], [ 3229258.787634999491274, 2202509.953765000216663 ] ] ] } }
+]
+}

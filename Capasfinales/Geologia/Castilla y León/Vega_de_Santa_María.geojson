@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Vega_de_Santa_María",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3084368.360423111356795, 2094294.832317052176222 ], [ 3084441.290077672805637, 2094462.275260000489652 ], [ 3091256.52116, 2094462.275260000489652 ], [ 3091256.52116, 2087710.271240000613034 ], [ 3084286.209239999763668, 2087710.271240000613034 ], [ 3084286.209239999763668, 2094140.20617311168462 ], [ 3084368.360423111356795, 2094294.832317052176222 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 102.0, "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "colorcorregido": "#80B3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3084368.360423111356795, 2094294.832317052176222 ], [ 3084286.209239999763668, 2094140.20617311168462 ], [ 3084286.209239999763668, 2094462.275260000489652 ], [ 3084441.290077672805637, 2094462.275260000489652 ], [ 3084368.360423111356795, 2094294.832317052176222 ] ] ] } }
+]
+}

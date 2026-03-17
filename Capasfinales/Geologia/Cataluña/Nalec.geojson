@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nalec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3576626.556049999780953, 2096942.598849999718368 ], [ 3580924.268250000663102, 2096942.598849999718368 ], [ 3580924.268250000663102, 2089122.681549998931587 ], [ 3576626.556049999780953, 2089122.681549998931587 ], [ 3576626.556049999780953, 2096942.598849999718368 ] ] ] } }
+]
+}

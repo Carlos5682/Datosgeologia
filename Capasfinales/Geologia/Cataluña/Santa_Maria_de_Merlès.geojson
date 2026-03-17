@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Maria_de_Merlès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3646255.553444999270141, 2142867.899455000646412 ], [ 3661356.996955000795424, 2142867.899455000646412 ], [ 3661356.996955000795424, 2123832.158444999717176 ], [ 3646255.553444999270141, 2123832.158444999717176 ], [ 3646255.553444999270141, 2142867.899455000646412 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cogul,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3539071.677534999325871, 2091153.832964999834076 ], [ 3546141.311765000224113, 2091153.832964999834076 ], [ 3546141.311765000224113, 2082966.545934999128804 ], [ 3539071.677534999325871, 2082966.545934999128804 ], [ 3539071.677534999325871, 2091153.832964999834076 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Bàscara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 85.0, "DLO": "Turbiditas calcáreas, calizas y margas. Pudingas, areniscas y margas arenosas. Areniscas y calizas lacustres", "colorcorregido": "#FF8000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3737445.773436625022441, 2138948.483874806202948 ], [ 3737459.857805000152439, 2138965.052954656537622 ], [ 3737459.857805000152439, 2138617.840195000637323 ], [ 3737246.045482056215405, 2138617.840195000637323 ], [ 3737445.773436625022441, 2138948.483874806202948 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 98.0, "DLO": "Calcarenitas, arenas y limos amarillos", "colorcorregido": "#FFFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3737445.773436625022441, 2138948.483874806202948 ], [ 3737246.045482056215405, 2138617.840195000637323 ], [ 3731242.922994999680668, 2138617.840195000637323 ], [ 3731242.922994999680668, 2146433.295504999812692 ], [ 3737459.857805000152439, 2146433.295504999812692 ], [ 3737459.857805000152439, 2138965.052954656537622 ], [ 3737445.773436625022441, 2138948.483874806202948 ] ] ] } }
+]
+}

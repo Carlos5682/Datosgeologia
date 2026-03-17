@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Canillas_de_Albaida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 92.0, "DLO": "Conglomerados, calizas y margas. Margas con olistostromas de origen diverso", "colorcorregido": "#FFD980" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3078310.840319999493659, 1651472.142518839333206 ], [ 3078310.840319999493659, 1641168.659279999323189 ], [ 3065587.887479999102652, 1641168.659279999323189 ], [ 3065587.887479999102652, 1651478.512719999067485 ], [ 3078274.779822609387338, 1651478.512719999067485 ], [ 3078310.840319999493659, 1651472.142518839333206 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 101.0, "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "colorcorregido": "#D9D9B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3078274.779822609387338, 1651478.512719999067485 ], [ 3078310.840319999493659, 1651478.512719999067485 ], [ 3078310.840319999493659, 1651472.142518839333206 ], [ 3078274.779822609387338, 1651478.512719999067485 ] ] ] } }
+]
+}

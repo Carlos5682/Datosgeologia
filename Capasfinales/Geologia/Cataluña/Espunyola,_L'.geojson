@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espunyola,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3628812.537624999415129, 2146943.24047499941662 ], [ 3643974.7086749994196, 2146943.24047499941662 ], [ 3643974.7086749994196, 2135677.3707249998115 ], [ 3628812.537624999415129, 2135677.3707249998115 ], [ 3628812.537624999415129, 2146943.24047499941662 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bisbal_de_Falset,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3539750.15129, 2071667.305810000281781 ], [ 3545815.912609999533743, 2071667.305810000281781 ], [ 3545815.912609999533743, 2064638.068790000397712 ], [ 3539750.15129, 2064638.068790000397712 ], [ 3539750.15129, 2071667.305810000281781 ] ] ] } }
+]
+}

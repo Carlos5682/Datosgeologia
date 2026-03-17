@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Veguillas,_Las",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 40.0, "DLO": "Pizarras, grauwacas o arcosas, conglomerados y calizas", "colorcorregido": "#80FF80" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2981354.307584999594837, 2105781.380714999046177 ], [ 2994249.478314999025315, 2105781.380714999046177 ], [ 2994249.478314999025315, 2094456.151585000101477 ], [ 2981354.307584999594837, 2094456.151585000101477 ], [ 2981354.307584999594837, 2105781.380714999046177 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Piñel_de_Arriba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3141408.132284998893738, 2181962.563415000215173 ], [ 3151411.497215000912547, 2181962.563415000215173 ], [ 3151411.497215000912547, 2173757.368784999474883 ], [ 3141408.132284998893738, 2173757.368784999474883 ], [ 3141408.132284998893738, 2181962.563415000215173 ] ] ] } }
+]
+}

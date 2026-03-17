@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Fresno_de_Rodilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 90.0, "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "colorcorregido": "#FFD94D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3212306.23459392786026, 2247991.491350350435823 ], [ 3212286.749236597679555, 2248083.126034999266267 ], [ 3217590.030035000294447, 2248083.126034999266267 ], [ 3217590.030035000294447, 2243084.722364999353886 ], [ 3211749.973865000531077, 2243084.722364999353886 ], [ 3211749.973865000531077, 2247646.103181819431484 ], [ 3212306.23459392786026, 2247991.491350350435823 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3212306.23459392786026, 2247991.491350350435823 ], [ 3211749.973865000531077, 2247646.103181819431484 ], [ 3211749.973865000531077, 2248083.126034999266267 ], [ 3212286.749236597679555, 2248083.126034999266267 ], [ 3212306.23459392786026, 2247991.491350350435823 ] ] ] } }
+]
+}

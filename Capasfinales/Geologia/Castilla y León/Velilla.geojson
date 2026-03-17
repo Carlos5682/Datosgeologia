@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Velilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3070951.124420000240207, 2180273.374479999765754 ], [ 3077923.500879999250174, 2180273.374479999765754 ], [ 3077923.500879999250174, 2172050.261919999495149 ], [ 3070951.124420000240207, 2172050.261919999495149 ], [ 3070951.124420000240207, 2180273.374479999765754 ] ] ] } }
+]
+}

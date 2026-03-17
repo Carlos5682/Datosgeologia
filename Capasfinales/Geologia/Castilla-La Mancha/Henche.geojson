@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Henche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 91.0, "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "colorcorregido": "#FFFF4D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3244128.601319999434054, 2052157.59288000036031 ], [ 3252654.803679999895394, 2052157.59288000036031 ], [ 3252654.803679999895394, 2044312.606320000253618 ], [ 3244128.601319999434054, 2044312.606320000253618 ], [ 3244128.601319999434054, 2052157.59288000036031 ] ] ] } }
+]
+}

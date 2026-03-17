@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navàs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3625562.231015000492334, 2132296.417685000225902 ], [ 3649441.67348499968648, 2132296.417685000225902 ], [ 3649441.67348499968648, 2117898.733215000480413 ], [ 3625562.231015000492334, 2117898.733215000480413 ], [ 3625562.231015000492334, 2132296.417685000225902 ] ] ] } }
+]
+}

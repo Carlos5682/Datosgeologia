@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Pau_de_Segúries",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 82.0, "DLO": "Areniscas silíceas y arcillas", "colorcorregido": "#FFB34D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3692092.399139999412, 2160089.317408813163638 ], [ 3692092.399139999412, 2158114.787859999574721 ], [ 3687611.35336, 2158114.787859999574721 ], [ 3687611.35336, 2159884.556898628361523 ], [ 3692092.399139999412, 2160089.317408813163638 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 84.0, "DLO": "Turbiditas calcáreas, calizas, margas, conglomerados, areniscas y arcillas. Calizas lacustres", "colorcorregido": "#FFB300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3687613.222076370380819, 2163745.52287660446018 ], [ 3687744.686740409582853, 2163926.945328321307898 ], [ 3687908.100990792736411, 2163976.74993999954313 ], [ 3692092.399139999412, 2163976.74993999954313 ], [ 3692092.399139999412, 2160089.317408813163638 ], [ 3687611.35336, 2159884.556898628361523 ], [ 3687611.35336, 2163734.06242299079895 ], [ 3687613.222076370380819, 2163745.52287660446018 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 101.0, "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "colorcorregido": "#D9D9B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3687744.686740409582853, 2163926.945328321307898 ], [ 3687613.222076370380819, 2163745.52287660446018 ], [ 3687611.35336, 2163734.06242299079895 ], [ 3687611.35336, 2163976.74993999954313 ], [ 3687908.100990792736411, 2163976.74993999954313 ], [ 3687744.686740409582853, 2163926.945328321307898 ] ] ] } }
+]
+}

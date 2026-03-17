@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casserres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3639635.218684999737889, 2142824.650515000801533 ], [ 3649060.412715000566095, 2142824.650515000801533 ], [ 3649060.412715000566095, 2132411.587985000107437 ], [ 3639635.218684999737889, 2132411.587985000107437 ], [ 3639635.218684999737889, 2142824.650515000801533 ] ] ] } }
+]
+}

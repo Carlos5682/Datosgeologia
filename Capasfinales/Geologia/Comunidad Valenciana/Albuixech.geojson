@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Albuixech",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 101.0, "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "colorcorregido": "#D9D9B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3430347.737364620901644, 1889946.975559602025896 ], [ 3430314.975410000421107, 1889942.021594725549221 ], [ 3430314.975410000421107, 1889998.409589999355376 ], [ 3430464.105350206140429, 1889998.409589999355376 ], [ 3430347.737364620901644, 1889946.975559602025896 ] ] ] } },
+{ "type": "Feature", "properties": { "ID_UNIDADC": 102.0, "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "colorcorregido": "#80B3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3430347.737364620901644, 1889946.975559602025896 ], [ 3430464.105350206140429, 1889998.409589999355376 ], [ 3434158.264989999122918, 1889998.409589999355376 ], [ 3434158.264989999122918, 1886478.868110000155866 ], [ 3430314.975410000421107, 1886478.868110000155866 ], [ 3430314.975410000421107, 1889942.021594725549221 ], [ 3430347.737364620901644, 1889946.975559602025896 ] ] ] } }
+]
+}

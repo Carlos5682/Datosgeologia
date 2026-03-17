@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pontós",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 98.0, "DLO": "Calcarenitas, arenas y limos amarillos", "colorcorregido": "#FFFFB3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3731690.22076499927789, 2150838.839635000564158 ], [ 3737524.700735, 2150838.839635000564158 ], [ 3737524.700735, 2144320.004065000452101 ], [ 3731690.22076499927789, 2144320.004065000452101 ], [ 3731690.22076499927789, 2150838.839635000564158 ] ] ] } }
+]
+}

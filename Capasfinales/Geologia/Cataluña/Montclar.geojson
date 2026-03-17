@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montclar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ID_UNIDADC": 83.0, "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "colorcorregido": "#FFB3B3" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3634658.18089499976486, 2143478.27350499946624 ], [ 3644335.293405001051724, 2143478.27350499946624 ], [ 3644335.293405001051724, 2133964.3033950002864 ], [ 3634658.18089499976486, 2133964.3033950002864 ], [ 3634658.18089499976486, 2143478.27350499946624 ] ] ] } }
+]
+}
